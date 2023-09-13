@@ -1,6 +1,5 @@
 package com.dnb.devconnector.service;
 
-import java.util.List;
 import java.util.Optional;
 
 import com.dnb.devconnector.dto.User;
